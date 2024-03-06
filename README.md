@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswanth0123" alt="aswanth0123" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-🔭 I’m currently working synnefo.in
+<h2> 🔭 I’m currently working <a href="https://synnefo.in/">synnefo.in</h2>
 
 💬 Ask me about Linux and Python
 
-📫 How to reach me ashwinkoduvathara@gmail.com
+📫 How to reach me 
 <h3 align="left">Connect with me:  </h3>
 <p align="left">
 </p>
