@@ -8,8 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h5> 🔭 I’m currently working <a href="https://synnefo.in/">synnefo.in</h5>
 
-💬 Ask me about Linux and Python
-
+💬 Ask me about Python
 📫 How to reach me <a href="">aswanthsuresh74@gmail.com</a> 
 <p align="left">
 </p>
